@@ -1,0 +1,1 @@
+<h1> Making Notes on Searching algorithms to help people learn DSA and and Algorithms in Js</h1>
